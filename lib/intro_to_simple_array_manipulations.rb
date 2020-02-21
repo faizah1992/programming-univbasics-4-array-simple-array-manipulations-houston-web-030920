@@ -8,3 +8,5 @@ def using_unshift(array,string)
   bouroughs_in_nyc.unshift("Staten Island")
 end
 
+def shift_with_args(array)
+  
