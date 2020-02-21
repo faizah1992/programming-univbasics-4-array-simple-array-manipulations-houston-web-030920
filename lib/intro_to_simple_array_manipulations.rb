@@ -11,6 +11,6 @@ end
 def shift_with_args(array)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop()
-  
+end
   
   
